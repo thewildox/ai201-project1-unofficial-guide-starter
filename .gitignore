@@ -1,4 +1,4 @@
-# API keys — never commit these
+# API keys — never commit these (.env holds the real key; .env.example is a safe template)
 .env
 
 # Python
